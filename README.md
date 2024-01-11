@@ -1,4 +1,6 @@
 # 🚀 Panduan Instalasi Web Rumah Laundry
+Mohamad Gilang Ramdani
+10060121063
 
 Langkah 1: Persiapan Awal
 
@@ -31,4 +33,3 @@ Informasi Login:
 - 👤 Username: admin
 - 🔐 Password: admin
 
-Selamat, Anda Telah Sukses Menginstal Aplikasi Rumah Laundry! 🎉
